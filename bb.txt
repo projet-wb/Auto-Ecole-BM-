@@ -1,0 +1,54 @@
+<doctype html>
+    <html>
+        <head>
+            <title> devoir de programmation web </title>
+            <meta charset="utf-8">
+<style>
+            /* Styles CSS */ body {
+font-family: Arial, sans-serif; margin: 0; padding: 0;
+}
+header {
+background-color: #333; color: rgb(255, 255, 255); text-align: center; padding: 10px 0;
+}
+nav {
+background-color: #444; color: #fff; text-align: center; padding: 10px 0;
+}
+nav a {
+color: #fff; text-decoration: none; margin: 0 10px;
+}
+section {
+padding: 20px;
+}
+footer {
+background-color: #333; color: #fff; text-align: center; padding: 10px 0; position: fixed; bottom: 0; width: 100%;
+}
+div{
+    background-image: url(bb);
+}
+</style>
+</head>
+<header>
+<h1>Auto-école XYZ</h1>
+</header>
+<nav>
+
+<a href="#">Accueil</a>
+<a href="#">Cours de code</a>
+<a href="#">Cours de conduite</a>
+<a href="n.html">Inscription</a>
+<a href="#">Contact</a>
+</nav>
+<section>
+    <div></div>
+<h2>Bienvenue sur le site de l'auto-école XYZ</h2>
+<p>Découvrez nos cours de code et de conduite pour obtenir votre permis de conduire.</p>
+</section>
+<footer>
+<p>&copy; 2022 Auto-école XYZ - Tous droits réservés</p> </footer>
+
+
+
+
+
+        </body>
+    </html>
